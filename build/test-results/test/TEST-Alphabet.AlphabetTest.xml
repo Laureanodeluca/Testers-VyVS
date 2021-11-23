@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Alphabet.AlphabetTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-11-23T23:08:12" hostname="LaureanoLinux" time="0.002">
+  <properties/>
+  <testcase name="itsALetterWithUpperCaseLetterTest" classname="Alphabet.AlphabetTest" time="0.001"/>
+  <testcase name="itsALetterWithGreaterThanLowerCaseLettersTest" classname="Alphabet.AlphabetTest" time="0.0"/>
+  <testcase name="itsALetterWithLowerCaseLetterTest" classname="Alphabet.AlphabetTest" time="0.0"/>
+  <testcase name="inverseUpperToLowerTest" classname="Alphabet.AlphabetTest" time="0.0"/>
+  <testcase name="inverseLowerToUpperTest" classname="Alphabet.AlphabetTest" time="0.0"/>
+  <testcase name="itsALetterWithSmallerThanUpperCaseLettersTest" classname="Alphabet.AlphabetTest" time="0.0"/>
+  <testcase name="itsALetterWithGreaterThanUpperCaseLettersTest" classname="Alphabet.AlphabetTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
